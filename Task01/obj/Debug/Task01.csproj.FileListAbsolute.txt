@@ -1,0 +1,6 @@
+C:\Users\Настюшка\Desktop\Юниверс\3.1 и 3.2\Курс ЕПАМ\HMT_01\Task01\bin\Debug\Task01.exe.config
+C:\Users\Настюшка\Desktop\Юниверс\3.1 и 3.2\Курс ЕПАМ\HMT_01\Task01\bin\Debug\Task01.exe
+C:\Users\Настюшка\Desktop\Юниверс\3.1 и 3.2\Курс ЕПАМ\HMT_01\Task01\bin\Debug\Task01.pdb
+C:\Users\Настюшка\Desktop\Юниверс\3.1 и 3.2\Курс ЕПАМ\HMT_01\Task01\obj\Debug\Task01.csprojResolveAssemblyReference.cache
+C:\Users\Настюшка\Desktop\Юниверс\3.1 и 3.2\Курс ЕПАМ\HMT_01\Task01\obj\Debug\Task01.exe
+C:\Users\Настюшка\Desktop\Юниверс\3.1 и 3.2\Курс ЕПАМ\HMT_01\Task01\obj\Debug\Task01.pdb
